@@ -1,0 +1,29 @@
+h1 {
+    background-color: aqua;
+    text-align: center;
+    border-radius: 20px;
+}
+
+span {
+    background-color: black;
+    border: 3px solid red;
+    border-radius: 10px;
+    color: yellow;
+}
+
+.images {
+    text-align: center;
+    width: 1350px;
+    height: 530px;
+    background-color:black;
+    border-radius: 0px 50px 0px 50px;
+}
+
+.content {
+    text-align: center;
+    background-color: aquamarine;
+    width: 1340px;
+    height: 89px;
+    border-radius: 10px;
+    font-size: large;
+}
